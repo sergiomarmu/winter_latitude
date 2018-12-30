@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39b2c455-6bb3-468c-979d-52378fa2b19e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#F8F8F8</find>
+      <find>f</find>
+      <find>fo</find>
+      <find>font</find>
+      <find>../font</find>
+      <find>../../../www</find>
+      <find>fonts/</find>
+      <find>@media (max-width: 340px)main.css:14767.menu-inner</find>
+      <find>@media (max-width: 340px)main.css:1476.menu-inner</find>
+      <find>@media (max-width: 340px)main.menu-inner</find>
+      <find>@media (max-width: 340px)mai.menu-inner</find>
+      <find>@media (max-width: 340px)ma.menu-inner</find>
+      <find>@media (max-width: 340px)m.menu-inner</find>
+      <find>@media (max-width: 340px).menu-inner</find>
+      <find>@media (max-width: 340px) .menu-inner</find>
+      <find>@media (max-width: 340px) .menu-inne</find>
+      <find>@media (max-width: 340px) .</find>
+      <find>@media (max-width: 340px)</find>
+      <find>note</find>
+      <find>user</find>
+      <find>ionic-wordl</find>
+      <find>ionic-word</find>
+      <find>ionic-worñ</find>
+      <find>ionic-world</find>
+      <find>ionic-worl</find>
+      <find>ionic-wor</find>
+      <find>ionic</find>
+      <find>ionic-</find>
+      <find>ionic-w</find>
+      <find>ionic-wo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fonts</replace>
+      <replace>../../fonts</replace>
+      <replace>info</replace>
+      <replace>data</replace>
+      <replace>value</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pages/Inicio/Inicio.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion/Inicio.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/Inicio.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Material.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/home.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/Material.html" />
+        <option value="$PROJECT_DIR$/www/style/login.css" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.scss" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.scss" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/Material.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-inicio/Inicio.scss" />
+        <option value="$PROJECT_DIR$/src/app/app.html" />
+        <option value="$PROJECT_DIR$/src/app/app.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion/Estacion.scss" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.scss" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.html" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/src/app/main.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion/Estacion.ts" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.ts" />
+        <option value="$PROJECT_DIR$/src/pages/login/login.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/Material.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-inicio/Inicio.html" />
+        <option value="$PROJECT_DIR$/src/pages/home/home.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion/Estacion.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-inicio/Inicio.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.html" />
+        <option value="$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.ts" />
+        <option value="$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.html" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/src/app/app.component.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WinterLatitude_Backend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/admin-material/subpages/ski" />
+      <recent name="$PROJECT_DIR$/src/pages/weather" />
+      <recent name="$PROJECT_DIR$/www/fonts" />
+      <recent name="$PROJECT_DIR$/src/fonts" />
+      <recent name="$PROJECT_DIR$/src/fonts/icons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/admin-parteNieve" />
+      <recent name="$PROJECT_DIR$/src/pages/admin-estacion-data" />
+      <recent name="$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile" />
+      <recent name="$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard" />
+      <recent name="$PROJECT_DIR$/src/pages/admin-material/subpages/nordic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39b2c455-6bb3-468c-979d-52378fa2b19e" name="Default" comment="" />
+      <created>1493908775516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493908775516</updated>
+      <workItem from="1493908780269" duration="12167000" />
+      <workItem from="1493923857978" duration="1904000" />
+      <workItem from="1493927923996" duration="1500000" />
+      <workItem from="1493972254118" duration="8993000" />
+      <workItem from="1493981653718" duration="1555000" />
+      <workItem from="1494022722310" duration="2292000" />
+      <workItem from="1494025411578" duration="43000" />
+      <workItem from="1494025993990" duration="792000" />
+      <workItem from="1494249116337" duration="3182000" />
+      <workItem from="1494252915507" duration="370000" />
+      <workItem from="1494255278396" duration="912000" />
+      <workItem from="1494260597416" duration="55000" />
+      <workItem from="1494265459438" duration="1016000" />
+      <workItem from="1494266780381" duration="781000" />
+      <workItem from="1494268011875" duration="770000" />
+      <workItem from="1494335646100" duration="3178000" />
+      <workItem from="1494339401906" duration="3744000" />
+      <workItem from="1494343877272" duration="1940000" />
+      <workItem from="1494354602698" duration="1214000" />
+      <workItem from="1494356200856" duration="678000" />
+      <workItem from="1494411317585" duration="253000" />
+      <workItem from="1494412069654" duration="1949000" />
+      <workItem from="1494429372290" duration="12076000" />
+      <workItem from="1494508293803" duration="2379000" />
+      <workItem from="1494511013867" duration="12579000" />
+      <workItem from="1494602188515" duration="648000" />
+      <workItem from="1494604780540" duration="2033000" />
+      <workItem from="1494608366617" duration="8000" />
+      <workItem from="1494608709061" duration="5470000" />
+      <workItem from="1494615532145" duration="1254000" />
+      <workItem from="1494855749450" duration="16115000" />
+      <workItem from="1494941067147" duration="12983000" />
+      <workItem from="1494957350266" duration="5023000" />
+      <workItem from="1495014394651" duration="1881000" />
+      <workItem from="1495016731693" duration="124000" />
+      <workItem from="1495017190458" duration="1705000" />
+      <workItem from="1495034575399" duration="3338000" />
+      <workItem from="1495038316197" duration="1324000" />
+      <workItem from="1495042016614" duration="18000" />
+      <workItem from="1495042385362" duration="4717000" />
+      <workItem from="1495047499354" duration="594000" />
+      <workItem from="1495048458593" duration="335000" />
+      <workItem from="1495128122137" duration="6902000" />
+      <workItem from="1495180345183" duration="2750000" />
+      <workItem from="1495183541294" duration="621000" />
+      <workItem from="1495209162972" duration="4202000" />
+      <workItem from="1495213870129" duration="2820000" />
+      <workItem from="1495217320043" duration="322000" />
+      <workItem from="1495217967664" duration="216000" />
+      <workItem from="1495219007019" duration="380000" />
+      <workItem from="1495219720134" duration="29000" />
+      <workItem from="1495220097143" duration="286000" />
+      <workItem from="1495304907358" duration="1194000" />
+      <workItem from="1495316145388" duration="1703000" />
+      <workItem from="1495318597264" duration="117000" />
+      <workItem from="1495319118877" duration="1362000" />
+      <workItem from="1495321876880" duration="686000" />
+      <workItem from="1495323069149" duration="454000" />
+      <workItem from="1495323948631" duration="311000" />
+      <workItem from="1495383736355" duration="6629000" />
+      <workItem from="1495392882689" duration="1309000" />
+      <workItem from="1495394715659" duration="1154000" />
+      <workItem from="1495446122996" duration="2638000" />
+      <workItem from="1495448767970" duration="4225000" />
+      <workItem from="1495453334691" duration="343000" />
+      <workItem from="1495459199945" duration="2045000" />
+      <workItem from="1495461568107" duration="3406000" />
+      <workItem from="1495473567455" duration="430000" />
+      <workItem from="1495478632375" duration="33000" />
+      <workItem from="1495535707486" duration="1197000" />
+      <workItem from="1495537395831" duration="434000" />
+      <workItem from="1495538236298" duration="1918000" />
+      <workItem from="1495545341605" duration="6167000" />
+      <workItem from="1495552062418" duration="4276000" />
+      <workItem from="1495557336805" duration="1226000" />
+      <workItem from="1495562551308" duration="820000" />
+      <workItem from="1495617121688" duration="2338000" />
+      <workItem from="1495638682209" duration="294000" />
+      <workItem from="1495704111189" duration="253000" />
+      <workItem from="1495722818312" duration="2202000" />
+      <workItem from="1495733401995" duration="11000" />
+      <workItem from="1495824523859" duration="2045000" />
+      <workItem from="1495901852347" duration="4350000" />
+      <workItem from="1495980504368" duration="92000" />
+      <workItem from="1495981584767" duration="41000" />
+      <workItem from="1495981646951" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="208199000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-4" width="1368" height="773" extended-state="7" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20104244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41612902" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41612902" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20104244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32419354" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/pages/weather/weather.ts</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/Material.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="217" column="15" lean-forward="true" selection-start-line="217" selection-start-column="15" selection-end-line="217" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/estaciones/astun.jpg" />
+    <entry file="file://$PROJECT_DIR$/www/images/estaciones/aramon-cerler.jpg" />
+    <entry file="file://$PROJECT_DIR$/www/images/images-home/admin-home.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/images/images-home/ski.jpg" />
+    <entry file="file://$PROJECT_DIR$/www/images/material/motonieve-logo.png" />
+    <entry file="file://$PROJECT_DIR$/www/style/login.css" />
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="4195" column="0" lean-forward="true" selection-start-line="4195" selection-start-column="0" selection-end-line="4195" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-estacion/Estacion.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#Estacion#586;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#HomePage#435;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion/Estacion.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#EstacionData#586;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#HomePage#435;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-estacion-data/EstacionData.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-inicio/Inicio.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#HomePage#435;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#Inicio#586;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-inicio/Inicio.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/Material.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#HomePage#222;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#Material#635;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#NavController#98;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#Nordic#413;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#Raquetas#261;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#Ski#374;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#SnowBoard#316;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/Material.ts#SnowMobile#462;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#Nordic#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/nordic/Nordic.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#HomePage#435;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#ParteNieve#586;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-parteNieve/ParteNieve.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#Raquetas#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/raquetas/Raquetas.ts#firebase#314;</node>
+            <node x="" y="">Observable;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#Ski#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/ski/Ski.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#SnowBoard#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowboard/SnowBoard.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#AlertController#97;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#AngularFireDatabase#255;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#FirebaseListObservable#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#NavController#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#SnowMobile#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts#firebase#314;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/components/alert/alert-controller.d.ts#AlertController#161;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/angularfire2/angularfire2.d.ts#AngularFireModule#425;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/components/app/app-root.d.ts#IonicApp#374;</node>
+            <node x="" y="">$PROJECT_DIR$/src/app/app.component.ts#Component#56;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#Estacion#452;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#EstacionData#513;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#HomePage#350;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#Inicio#397;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#LoginPage#715;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#Material#587;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#MyApp#843;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#Nav#110;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#ParteNieve#648;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#Platform#115;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#SplashScreen#211;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#StatusBar#157;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.component.ts#ViewChild#67;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/firebase/app.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/src/app/app.html</node>
+            <node x="" y="">$PROJECT_DIR$/src/app/app.module.ts#AngularFireAuth#1735;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#AngularFireDatabaseModule#1307;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#AngularFireModule#1257;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#AppModule#1964;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#BrowserModule#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#ErrorHandler#114;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Estacion#539;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#EstacionData#600;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Geolocation#1558;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#HomePage#437;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#HttpModule#244;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Inicio#484;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#IonicApp#170;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#IonicErrorHandler#180;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#IonicModule#199;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#LoginPage#1685;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Material#1124;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#MyApp#396;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#NgModule#128;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Nordic#817;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#ParteNieve#1057;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Raquetas#738;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#Ski#674;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#SnowBoard#890;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#SnowMobile#972;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#SplashScreen#1498;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/app.module.ts#StatusBar#1444;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/angularfire2/auth/auth.d.ts#AngularFireAuth#156;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/platform-browser/src/browser.d.ts#BrowserModule#771;</node>
+            <node x="" y="">Component;NgModule;ViewChild;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/angularfire2/database/database.d.ts#AngularFireDatabase#358;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/angularfire2/database/database.module.d.ts#AngularFireDatabaseModule#580;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/core/src/error_handler.d.ts#ErrorHandler#0;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/firebase/firebase.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/angularfire2/database/firebase_list_observable.d.ts#FirebaseListObservable#488;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/home/home.html</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/home/home.ts#AngularFireDatabase#231;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#Estacion#465;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#FirebaseListObservable#252;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#HomePage#633;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#Inicio#416;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#LoginPage#372;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#MenuController#112;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/home/home.ts#NavController#98;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/http/src/http_module.d.ts#HttpModule#509;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@ionic-native/status-bar/index.d.ts#StatusBar#0;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@ionic-native/splash-screen/index.d.ts#SplashScreen#0;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@ionic-native/geolocation/index.d.ts#Geolocation#3305;</node>
+            <node x="" y="">$PROJECT_DIR$/src/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/util/ionic-error-handler.d.ts#IonicErrorHandler#46;</node>
+            <node x="" y="">$PROJECT_DIR$/src/pages/login/login.ts#AngularFireAuth#309;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#AngularFireDatabase#250;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#Component#55;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#HomePage#501;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#IonicApp#98;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#LoginPage#653;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#MenuController#132;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#NavController#107;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#NavParams#122;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#Observable#360;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/pages/login/login.ts#firebase#392;</node>
+            <node x="" y="">$PROJECT_DIR$/src/app/main.ts#AppModule#195;/home/semamu/Documentos/DAW2/ProyectoFinal/WinterLatitude_Backend/src/app/main.ts#platformBrowserDynamic#47;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/components/app/menu-controller.d.ts#MenuController#103;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/module.d.ts#IonicModule#297;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/navigation/nav-controller.d.ts#NavController#217;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/navigation/nav-params.d.ts#NavParams#0;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/components/nav/nav.d.ts#Nav#970;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/@angular/platform-browser-dynamic/src/platform-browser-dynamic.d.ts#platformBrowserDynamic#249;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ionic-angular/platform/platform.d.ts#Platform#54;</node>
+            <node x="" y="">assets/icon/favicon.ico</node>
+            <node x="" y="">build/main.css</node>
+            <node x="" y="">build/main.js</node>
+            <node x="" y="">build/polyfills.js</node>
+            <node x="" y="">cordova.js</node>
+            <node x="" y="">http://maps.googleapis.com/maps/api/js?key=AIzaSyCiEYUOU3gAmCEbHpWIdYctL0JAjrZATlQ</node>
+            <node x="" y="">images/drawable-xhdpi-icon.png</node>
+            <node x="" y="">images/images-home/admin-home.jpg</node>
+            <node x="" y="">manifest.json</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.282259630948527" x="1613.0" y="1234.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-157">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion/Estacion.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="199" column="5" lean-forward="true" selection-start-line="199" selection-start-column="5" selection-end-line="199" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="71" column="33" lean-forward="false" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/login/login.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="102" column="3" lean-forward="false" selection-start-line="102" selection-start-column="3" selection-end-line="102" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/Material.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="52" column="62" lean-forward="false" selection-start-line="52" selection-start-column="62" selection-end-line="52" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="132" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="133" column="5" lean-forward="true" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="134" column="82" lean-forward="true" selection-start-line="134" selection-start-column="82" selection-end-line="134" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2520">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-inicio/Inicio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-inicio/Inicio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion/Estacion.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion/Estacion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="40" lean-forward="false" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/raquetas/Raquetas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/ski/Ski.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/snowboard/SnowBoard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/snowmobile/SnowMobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="135" column="20" lean-forward="true" selection-start-line="135" selection-start-column="20" selection-end-line="135" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-inicio/Inicio.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="147" column="36" lean-forward="true" selection-start-line="147" selection-start-column="36" selection-end-line="147" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="131" lean-forward="false" selection-start-line="5" selection-start-column="131" selection-end-line="5" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-estacion-data/EstacionData.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/subpages/nordic/Nordic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-material/Material.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/admin-parteNieve/ParteNieve.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="133" lean-forward="false" selection-start-line="5" selection-start-column="133" selection-end-line="5" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
