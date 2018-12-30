@@ -1,0 +1,17 @@
+
+<ion-header>
+    <ion-navbar   color="primary">
+    <ion-title>WinterLatitude Backend</ion-title>
+    </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <ion-title>Acceso</ion-title>
+  <form>
+    <ion-input class="input-login" type="email" name="correo" [(ngModel)]="correo" placeholder="Correo"></ion-input>
+    <ion-input class="input-login" type="password" name="contra" [(ngModel)]="contra" placeholder="Contraseña"></ion-input>
+    <button ion-button block (click)="login()">Acceder</button>
+  </form>
+</ion-content>

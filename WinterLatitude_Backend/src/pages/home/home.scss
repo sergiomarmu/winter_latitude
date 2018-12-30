@@ -1,0 +1,282 @@
+* {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+  font-weight: bold !important;
+}
+
+page-home {
+
+  @media screen and (min-width: 760px) {
+    .scroll-content{
+      width: 50%;
+      margin: 56px auto;
+      overflow: hidden;
+    }
+    .scroll-content{
+      margin-top: -70px !important;
+    }
+  }
+
+  .label{
+    border: 1px solid #ddd;
+    padding: 5px;
+    margin-left: 18px;
+    box-shadow:0px 1px 3px #aaa;
+  }
+
+  .item-inner{
+    padding-left: 0px !important;
+  }
+
+  .item-ios{
+    padding-left: 0 !important;
+  }
+
+  .effect {
+    display: block;
+    cursor: pointer;
+    color: black !important;
+  }
+
+}
+
+ion-header{
+
+}
+
+/*----------------------------------------------------------*/
+
+#header-menu {
+  height: 125px;
+}
+
+.toolbar-title {
+  top: 12px;
+  text-align: center;
+}
+
+#menu-title {
+  bottom: 8px;
+  text-align: center;
+}
+
+#menu-image {
+  position: relative;
+  width: 85px;
+  top: -5px;
+  margin: 0 auto;
+  display: block;
+}
+
+ion-navbar .toolbar-content-md{
+  position: absolute;
+  width:100%;
+}
+
+/*------------------*/
+//Contenido
+
+.card-background-page {
+
+  ion-card {
+    position: relative;
+    text-align: center;
+  }
+
+  .card-title {
+    position: absolute;
+    top: 36%;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 0 10px #000 !important;
+  }
+
+  .card-subtitle {
+    font-size: 1.0em;
+    position: absolute;
+    top: 52%;
+    width: 100%;
+    color: #fff;
+  }
+
+}
+
+a.card-hover:hover{
+  box-shadow: 0 0 10px #000 !important;
+}
+
+
+#estacion-imagen {
+  background-size: cover;
+  height: 200px;
+}
+
+#estacion-title {
+  position: absolute;
+  top: 15px;
+  width: 100%;
+}
+
+#estacion-imagen {
+
+  .label {
+    text-align: right;
+    color: #fff!important;
+    position: absolute!important;
+    bottom: 0!important;
+    right: 0!important;
+    text-shadow: 0 0 5px #000;
+  }
+
+  .label-ios {
+    text-align: right;
+    color: #fff!important;
+    position: absolute!important;
+    bottom: 0!important;
+    right: 0!important;
+    text-shadow: 0 0 5px #000;
+  }
+
+  .label-md {
+    p {
+      color: #fff !important;
+    }
+  }
+}
+
+#estacion-desc {
+  background: #F8F8F8;
+  padding: 9px 15px 9px 15px;
+  border-bottom: 0.55px solid #c8c7cc;
+}
+
+.estacion {
+  color: #000;
+  position: relative;
+  font-size: 20px;
+  top: -15px;
+}
+
+.estacion-logo {
+  width: 50px;
+}
+
+.button-inner {
+  z-index: 5;
+}
+
+.back-button-icon {
+  z-index: 4;
+}
+
+.contenido {
+
+  h2 {
+    text-align: center;
+  }
+  p {
+    margin: 0 10px;
+    font-size: 18px;
+  }
+}
+
+@media (max-width: 340px) {
+  .menu-inner {
+    width: 200px;
+  }
+}
+
+.item-md {
+  padding-left: 0px!important;
+}
+
+.item-inner {
+  padding-left: 16px!important;
+}
+
+#home-button {
+  width: 40px;
+  height: 40px;
+  background: rgba(75, 143, 255, 0.7);
+  border-radius: 40px;
+  position: fixed;
+  right: 20px;
+  bottom: 10px;
+  img {
+    width: 20px;
+    height: 20px;
+    margin: 9px auto;
+    display: block;
+  }
+}
+
+.weather-title {
+  float: right;
+  top: 10px;
+  position: relative;
+  display: inline-block;
+}
+
+.weather-logo {
+  min-width: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.weather-subtitle {
+  float: right;
+  position: relative;
+  top: -10px;
+}
+
+.weather-container {
+  width: 100%;
+  height: 65px;
+}
+
+.home-button {
+  position: relative;
+  float: right;
+  right: 35px;
+  color: white;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float: left;
+}
+
+.center{
+  text-align: center;
+}
+
+
+// Overflow Add / Modify / Delete
+.alert-wrapper div {
+  overflow: scroll !important;
+}
+div.alert-message{
+  overflow: hidden !important;
+}
+div.alert-head {
+  overflow: hidden !important;
+}
+div.alert-input-wrapper {
+  overflow: hidden !important;
+}
+div.alert-input-group{
+  overflow: hidden !important;
+}
+div.alert-button-group{
+  overflow: hidden !important;
+}
+

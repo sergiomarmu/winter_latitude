@@ -1,0 +1,86 @@
+.title-weather {
+  text-align: center;
+}
+
+.title-weather-left {
+  float: left;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.title-weather-right {
+  float: right;
+}
+
+.provincia {
+  font-size: 10px;
+}
+
+.tmp-weather-main {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.weather-icons {
+  font-size: 25px;
+}
+
+.weather {
+  font-size: 10px;
+}
+
+.each-resort {
+  text-align: center;
+}
+
+.big-icon-weather {
+  font-size: 50px;
+}
+
+.info {
+  margin-left: 7px;
+}
+
+.each-table td {
+  text-align: center;
+}
+
+.icons-info {
+  font-size: 13px;
+}
+
+.border-none {
+  border: 0px solid white !important;
+}
+
+/***/
+.weather-title {
+  float: right;
+  top: 10px;
+  position: relative;
+  display: inline-block;
+}
+
+.weather-logo {
+  min-width: 100px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.weather-subtitle {
+  float: right;
+  position: relative;
+  top: -10px;
+}
+
+.weather-container {
+  width: 100%;
+  height: 65px;
+}

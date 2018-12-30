@@ -1,0 +1,28 @@
+<link rel="stylesheet" src="/fonts/font/css/font-awesome.min.css">
+<link rel="stylesheet" src="/fonts/font-weather/css/weather-icons.min.css">
+
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Tiempo<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let snapshot of items | async; let i = index">
+      <a class="estacion" (click)="openModal({charNum: i})">
+      <span class="left weather-container"><img class="weather-logo" src="{{snapshot.val().logo}}"/>
+          <h1 class="weather-title">{{ snapshot.key }}</h1>
+          <br/>
+          <br/>
+          <h2 class="weather-subtitle">{{ snapshot.val().Provincia }}</h2>
+        </span>
+        <span class="right"><i [ngClass]="snapshot.val().General.EstadoSimbolo"></i>
+        <span class="tmp-weather-main">{{ snapshot.val().General.TemperaturaMax }}º/{{ snapshot.val().General.TemperaturaMin }}º</span></span>
+      </a>
+    </ion-item>
+  </ion-list>
+</ion-content>

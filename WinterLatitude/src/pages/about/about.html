@@ -1,0 +1,20 @@
+<link rel="stylesheet" href="/fonts/font/css/font-awesome.min.css">
+
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Acerca de<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="tutorial-page">
+  <ion-slides pager class="slide-background">
+    <ion-slide *ngFor="let slide of slides">
+      <h2 class="slide-title" [innerHTML]="slide.title"></h2>
+      <p [innerHTML]="slide.description"></p>
+      <i [ngClass]="slide.extra" aria-hidden="true"></i>
+    </ion-slide>
+  </ion-slides>
+</ion-content>

@@ -1,0 +1,91 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+<link rel="stylesheet" src="/fonts/font/css/font-awesome.min.css">
+<link rel="stylesheet" src="/fonts/font-weather/css/weather-icons.min.css">
+
+<ion-header>
+  <ion-toolbar>
+    <ion-title id="estacion-title" class="header-title">
+      {{character.name}}
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <table class="table table-condensed each-table">
+    <tbody>
+    <tr>
+      <td colspan="3" class="title-weather">{{character.General.Dia}}</td>
+    </tr>
+    <tr>
+      <td colspan="2" class="each-resort"><i [ngClass]="character.General.EstadoSimbolo"></i><br/><span>{{character.General.Estado}}</span></td>
+      <td><span>{{character.General.TemperaturaMax}}</span>º<br><span>{{character.General.TemperaturaMin}}</span>º</td>
+    </tr>
+    <tr>
+      <td><i class="icons-info wi wi-umbrella"></i><span class="info icons-info">{{character.General.Lluvia}}</span><span class="icons-info">%</span></td>
+      <td><i class="icons-info wi wi-humidity"></i><span class="info icons-info">{{character.General.Humedad}}</span><span class="icons-info">º</span></td>
+      <td><i class="icons-info wi wi-wind-direction"></i><span class="info icons-info">{{character.General.Viento}}</span></td>
+    </tr>
+    <tr>
+      <td class="border-none"><i class="icons-info fa fa-sun-o" aria-hidden="true"></i><span class="info icons-info">{{character.General.Radiacion}}</span></td>
+      <td class="border-none"><i class="icons-info wi wi-raindrop"></i><span class="info icons-info">{{character.General.ProbLluvia}}</span><span class="icons-info">%</span></td>
+      <td class="border-none"><i class="icons-info fa fa-exclamation-triangle" aria-hidden="true"></i><span class="info icons-info">{{character.General.Alerta}}</span></td>
+    </tr>
+    <tr>
+      <td colspan="3">Previsión</td>
+    </tr>
+    <tr>
+      <td><span class="title-weather-left left">Lunes</span></td>
+      <td colspan="2" [innerHTML]="character.Prevision.Lunes"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Martes</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Martes"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Miercoles</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Miercoles"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Jueves</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Jueves"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Viernes</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Viernes"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Sabado</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Sabado"></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="title-weather-left left">Domingo</span></td>
+      <td class="border-none" colspan="2" [innerHTML]="character.Prevision.Domingo"></td>
+    </tr>
+    <tr>
+      <td colspan="3">Parte de Nieve</td>
+    </tr>
+    <tr>
+      <td><span class="left">Estado:</span></td>
+      <td></td>
+      <td> <span class="right">{{character.PartedeNieve.Estado}}</span></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="left">Remontadores:</span></td>
+      <td class="border-none" colspan="2"> <span class="right">{{character.PartedeNieve.Remontadores}}</span></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="left">Pistas:</span>
+      </td>
+      <td class="border-none" colspan="2"> <span class="right">{{character.PartedeNieve.Pistas}}</span></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="left">Espesores:</span></td>
+      <td class="border-none" colspan="2"> <span class="right">{{character.PartedeNieve.Espesores}}</span></td>
+    </tr>
+    <tr>
+      <td class="border-none"><span class="left">Previsión:</span></td>
+      <td class="border-none" colspan="2"> <span class="right">{{character.PartedeNieve.Prevision}}</span></td>
+    </tr>
+    </tbody>
+  </table>
+</ion-content>

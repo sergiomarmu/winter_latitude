@@ -1,0 +1,38 @@
+<link rel="stylesheet" src="/fonts/font/css/font-awesome.min.css">
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Home</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content class="card-background-page">
+  <ion-card class="home">
+    <img src="images/images-home/admin-home.jpg"/>
+    <ion-card-content>
+      <p>
+        Panel de Administración de la aplicación de deportes de invierno de WinterLatitude
+      </p>
+    </ion-card-content>
+
+      <ion-item class="center">
+        <a class="effect" (click)="openPage('Estacion')">
+          <i class="left fa fa-snowflake-o" aria-hidden="true"></i>
+          <span>Estaciones</span>
+          <ion-badge class="right" item-end>{{cmptEstaciones}}</ion-badge>
+        </a>
+      </ion-item>
+
+
+      <ion-item class="center">
+        <a class="effect" (click)="openPage('Inicio')">
+          <i class="left fa fa-star-o" aria-hidden="true"></i>
+          <span>Deportes</span>
+          <ion-badge class="right" item-end>{{cmptDeportes}}</ion-badge>
+        </a>
+      </ion-item>
+
+
+  </ion-card>
+</ion-content>

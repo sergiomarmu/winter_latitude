@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title id="estacion-title" class="header-title">
+      Descripción
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item id="estacion-imagen" [ngStyle]="{ 'background-image': 'url(' + character.image + ')'}">
+        <h2>{{character.name}}</h2>
+        <p>{{character.ubication}}</p>
+    </ion-item>
+    <div id="estacion-desc" class="item item-text-wrap">{{character.description}}</div>
+    <ion-item>Nº Pistas:<ion-note item-right>{{character.data.NPistas}}</ion-note></ion-item>
+    <ion-item>Longitud Esquiable:<ion-note item-right>{{character.data.LongitudEsquiable}}</ion-note></ion-item>
+    <ion-item>Punto más Alto:<ion-note item-right>{{character.data.PuntoMasAlto}}</ion-note></ion-item>
+    <ion-item>Remontadores:<ion-note item-right>{{character.data.Remontadores}}</ion-note></ion-item>
+    <ion-item>Telefono:<ion-note item-right>{{character.data.Telefono}}</ion-note></ion-item>
+    <ion-item>Forfet:<ion-note item-right>{{character.data.Forfet}}</ion-note></ion-item>
+  </ion-list>
+  <h4 style="text-align: center;">
+    Ubicación
+  </h4>
+  <div #map id="map" style="position: initial  !important;overflow: initial !important;height: 50%;
+    width: 100%;"></div>
+  <h4 style="text-align: center;">
+    Webcam
+  </h4>
+  <img src="{{character.webcam}}" width="100%">
+</ion-content>
+

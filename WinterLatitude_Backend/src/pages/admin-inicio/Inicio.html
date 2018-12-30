@@ -1,0 +1,35 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Admin.Inicio<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+    <ion-buttons start>
+      <button ion-button (click)="createDeporte()">
+        <ion-icon name="add"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item-sliding *ngFor="let u of deporte | async">
+      <ion-item>
+        <ion-label>
+          <h3>{{ u.name }}</h3>
+          <p>Descripción: <br/>{{ u.Descripcion }}</p>
+          <p>Origenes: <br/>{{ u.Origenes }}</p>
+        </ion-label>
+      </ion-item>
+      <ion-item-options>
+        <button ion-button  (click)="updateDeporte(u)">
+          Editar
+        </button>
+        <button ion-button color="danger"  (click)="removeDeporte(u)">
+          Borrar
+        </button>
+      </ion-item-options>
+    </ion-item-sliding>
+  </ion-list>
+</ion-content>

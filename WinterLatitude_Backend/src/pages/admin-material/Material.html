@@ -1,0 +1,16 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Admin.Material<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <button class="button-material"  href="#" (click)="page(3);" ion-button color="light">Ski</button>
+  <button class="button-material" href="#" (click)="page(1);" ion-button color="light">Ski Nórdico</button>
+  <button class="button-material" href="#" (click)="page(4);" ion-button color="light">SnowBoard</button>
+  <button class="button-material" href="#" (click)="page(2);" ion-button color="light">Raquetas de Nieve</button>
+  <button class="button-material" href="#" (click)="page(5);" ion-button color="light">Motos de Nieve</button>
+</ion-content>

@@ -1,0 +1,41 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Admin.Estacion<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+    <ion-buttons start>
+      <button ion-button (click)="createEstacion()">
+        <ion-icon name="add"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item-sliding *ngFor="let u of estacion | async">
+      <ion-item>
+        <ion-label>
+          <h3>{{ u.name }}</h3>
+          <p>Descripción: {{ u.description }}</p>
+          <p>Imagen: {{ u.image }}</p>
+          <p>Latitud: {{ u.latitude }}</p>
+          <p>Logo: {{ u.logo }}</p>
+          <p>Longitud: {{ u.longitude }}</p>
+          <p>Ubicación: {{ u.ubication }}</p>
+          <p>Webcam: {{ u.webcam }}</p>
+        </ion-label>
+      </ion-item>
+      <ion-item-options>
+        <button ion-button (click)="updateEstacion(u)">
+          Editar
+        </button>
+        <button ion-button color="danger"  (click)="removeEstacion(u)">
+          Borrar
+        </button>
+      </ion-item-options>
+    </ion-item-sliding>
+  </ion-list>
+</ion-content>
+

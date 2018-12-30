@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title id="header-title">Estaciones<a (click)="openPage('Home')"><i class="fa fa-home home-button"></i></a></ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-list>
+    <ion-item *ngFor="let snapshot of items | async; let i = index">
+      <img class="estacion-logo" src="{{snapshot.val().logo}}"/>
+      <a class="estacion" (click)="openModal({charNum: i})">{{ snapshot.key }}</a>
+    </ion-item>
+  </ion-list>
+</ion-content>

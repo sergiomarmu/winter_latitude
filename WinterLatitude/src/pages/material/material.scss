@@ -1,0 +1,53 @@
+page-material {
+
+  @media screen and (min-width: 760px) {
+    #material-imagen {
+      background-position-y: -250px;
+    }
+  }
+
+
+    #material-imagen {
+      min-height:350px;
+    }
+
+
+}
+
+#material-imagen {
+  background-size: cover;
+  height: 200px;
+}
+
+#material-grid{
+  border: 2px solid grey;
+  border-radius: 10px;
+}
+
+.tabla-material{
+  margin-left: -6px;
+}
+
+.material-logo {
+  width: 70px;
+  float: left;
+}
+
+.material-box {
+  height: 70px;
+  width: 100%;
+  display: block;
+}
+
+.material-name {
+  color: #000;
+  width: calc(100% - 70px);
+  float: right;
+  position: relative;
+  text-align: center;
+  top: 21px;
+}
+
+.material-box {
+  cursor: pointer;
+}
