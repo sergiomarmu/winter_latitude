@@ -66,11 +66,11 @@ import { AngularFireAuth } from 'angularfire2/auth';
     HttpModule,
     IonicModule.forRoot(MyApp),
     AngularFireModule.initializeApp({
-      apiKey: "AIzaSyDqNU7ecZ6pH2SQRt7XL18XL6MYBN1AVmw",
-      authDomain: "finalprojectdaw2.firebaseapp.com",
-      databaseURL: "https://finalprojectdaw2.firebaseio.com",
-      projectId: "finalprojectdaw2",
-      storageBucket: "finalprojectdaw2.appspot.com",
+      apiKey: "yourAPI",
+      authDomain: "yourDomain",
+      databaseURL: "yourDatabaseURL",
+      projectId: "yourProjectId",
+      storageBucket: "yourStorageBucket",
       messagingSenderId: "35017626222"
     }),
     AngularFireDatabaseModule
